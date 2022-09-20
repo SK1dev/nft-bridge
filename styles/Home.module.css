@@ -103,6 +103,10 @@
   line-height: 1.5;
 }
 
+.back {
+  background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+}
 .logo {
   height: 1em;
   margin-left: 0.5rem;
